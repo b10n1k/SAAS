@@ -1,0 +1,8 @@
+def count_words(str)
+  hashOfWords={}
+  reg=/(.*)/i
+  reg.match(str)
+  
+end
+
+count_words

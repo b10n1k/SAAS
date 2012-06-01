@@ -1,0 +1,40 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Tue May 29 18:57:36 2012
+;; Desktop file format version 206
+;; Emacs version 23.3.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/Dropbox/SAAS_courses/Assignments/first/" "~/Dropbox/SAAS_courses/Assignments/first/counter.rb"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/mnt/home/j0ni/Dropbox/SAAS_courses/Assignments/first/counter.rb"
+  "counter.rb"
+  'ruby-mode
+  nil
+  21
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/mnt/home/j0ni/Dropbox/SAAS_courses/Assignments/first/palindrome.rb"
+  "palindrome.rb"
+  'ruby-mode
+  nil
+  85
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+

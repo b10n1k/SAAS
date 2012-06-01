@@ -1,0 +1,6 @@
+def count_words(str)
+  hashOfWords={a=>1,b=>2}
+  puts hashOfWords
+end
+
+count_words
